@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3835554-17df-466c-8390-8aaf39098f2a" name="Changes" comment="HSG TIN">
-      <change afterPath="$PROJECT_DIR$/De2/Bai1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/De2/Bai2.py" afterDir="false" />
+    <list default="true" id="b3835554-17df-466c-8390-8aaf39098f2a" name="Changes" comment="HSG TIN DE 2">
+      <change afterPath="$PROJECT_DIR$/De2/Bai3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HSG TIN/Bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/De1/Bai1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HSG TIN/Bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/De1/Bai2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HSG TIN/Ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/De1/Ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/De1/Bai2.py" beforeDir="false" afterPath="$PROJECT_DIR$/De1/Bai2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/De2/Bai1.py" beforeDir="false" afterPath="$PROJECT_DIR$/De2/Bai1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.Bai1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex4.executor&quot;: &quot;Run&quot;,
@@ -96,7 +95,9 @@
       <workItem from="1709292108814" duration="11202000" />
       <workItem from="1710474750841" duration="2071000" />
       <workItem from="1710513140150" duration="1268000" />
-      <workItem from="1710547079923" duration="1480000" />
+      <workItem from="1710547079923" duration="8923000" />
+      <workItem from="1710560230188" duration="16000" />
+      <workItem from="1710615492215" duration="5510000" />
     </task>
     <task id="LOCAL-00001" summary="If - else, switch - case">
       <option name="closed" value="true" />
@@ -122,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710477085527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HSG TIN DE 2">
+      <option name="closed" value="true" />
+      <created>1710550941034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710550941034</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,14 +140,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="If - else, switch - case" />
     <MESSAGE value="HSG TIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="HSG TIN" />
+    <MESSAGE value="HSG TIN DE 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HSG TIN DE 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/De2/Bai2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$Ex3.coverage" NAME="Ex3 Coverage Results" MODIFIED="1709299855994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionMaking" />
-    <SUITE FILE_PATH="coverage/pythonProject$Bai2.coverage" NAME="Bai2 Coverage Results" MODIFIED="1710548258400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/De2" />
+    <SUITE FILE_PATH="coverage/pythonProject$Bai2.coverage" NAME="Bai2 Coverage Results" MODIFIED="1710551553098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/De1" />
     <SUITE FILE_PATH="coverage/pythonProject$Ex8.coverage" NAME="Ex8 Coverage Results" MODIFIED="1709304736872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionMaking" />
     <SUITE FILE_PATH="coverage/pythonProject$Ex4.coverage" NAME="Ex4 Coverage Results" MODIFIED="1709301670049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionMaking" />
     <SUITE FILE_PATH="coverage/pythonProject$Ex1.coverage" NAME="Ex1 Coverage Results" MODIFIED="1709299664225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DecisionMaking" />
-    <SUITE FILE_PATH="coverage/pythonProject$Bai1.coverage" NAME="Bai1 Coverage Results" MODIFIED="1710475603863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSG TIN" />
+    <SUITE FILE_PATH="coverage/pythonProject$Bai1.coverage" NAME="Bai1 Coverage Results" MODIFIED="1710663325654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/De2" />
+    <SUITE FILE_PATH="coverage/pythonProject$Bai3.coverage" NAME="Bai3 Coverage Results" MODIFIED="1710555064127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/De2" />
   </component>
 </project>
